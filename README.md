@@ -3,7 +3,7 @@
 Roy Ready
 roy.a.ready@gmail.com
 
-DOI: https://doi.org/10.5281/zenodo.5087529
+DOI: https://zenodo.org/badge/latestdoi/384503288
 
 The atomic-beam-fluorescence code is written in Python 3.8 and calculates the fluorescence of a directed beam of Maxwell-Boltzmann distributed atoms excited by a weak pumping laser for a given detector geometry, oven geometry, and atom species.
 The fluorescence is integrated over the volume covering the intersection of the atom beam and the pumping laser beam: I call this the 'megacube'.
